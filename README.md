@@ -52,6 +52,14 @@ Colab version of: https://github.com/cyber-meow/anime_screenshot_pipeline
 <details>
   <summary><big>Whats new?</big></summary>
 <ul>
+  <li>(02/27/23):</li>
+  <ul>
+    <li>Add <code>WANDB_MODE=disabled</code> to <code>[7.2] Begin Training</code></li>
+    <li>Fix <code>cc_training_test_set</code> error in <code>[7.2] Begin Training</code></li>
+    <li>Fix <code>fa_move_file</code> error in <code>[8.1] Only keep images with faces and resize</code></li>
+    <li>Move <code>[6.3] Data Cleansing</code> to <code>[5.2] Data Cleansing</code> and change to <code>n_faces</code> instead <code>n_poeple</code></li>
+  </ul>
+
   <li>(02/26/23):</li>
   <ul>
     <li>Initial First Release 🎉</li>
