@@ -1,4 +1,7 @@
 # Anime Screenshot Pipeline
+[![](https://img.shields.io/static/v1?message=Support+Me+On+Ko-Fi&logo=ko-fi&labelColor=555555&logoColor=FF8E8E&color=ff5f5f&label=%20&style=for-the-badge)](https://ko-fi.com/TheSkinnyRat)
+[![](https://img.shields.io/static/v1?message=Saweria&logo=ko-fi&labelColor=555555&logoColor=ffba00&color=857b7b&label=%20&style=for-the-badge)](https://saweria.co/TheSkinnyRat)
+
 Semi-automatic pipeline to extract image training set from anime for generative model training.\
 Colab version of: https://github.com/cyber-meow/anime_screenshot_pipeline
 
