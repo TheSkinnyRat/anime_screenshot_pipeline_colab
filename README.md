@@ -70,6 +70,30 @@ Colab version of: https://github.com/cyber-meow/anime_screenshot_pipeline
 </ul>
 </details>
 
-| Notebook Name | Link | Repo |
-| --- | --- | --- |
-| [Anime Screenshot Pipeline](https://github.com/TheSkinnyRat/anime_screenshot_pipeline_colab/blob/main/anime_screenshot_pipeline.ipynb) | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/TheSkinnyRat/anime_screenshot_pipeline_colab/blob/main/anime_screenshot_pipeline.ipynb) | [![](https://img.shields.io/static/v1?message=Github&logo=github&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://github.com/TheSkinnyRat/anime_screenshot_pipeline_colab) |
+## Google Colab
+
+Tested on Google Colab Free.
+- GPU: Tesla T4
+- Python: 3.9.16
+- Pip: 22.0.4
+- Torch: 1.13.1+cu116
+- Torchvision: 0.14.1+cu116
+
+| Notebook Name | Link |
+| --- | --- |
+| [Anime Screenshot Pipeline](https://github.com/TheSkinnyRat/anime_screenshot_pipeline_colab/blob/main/anime_screenshot_pipeline.ipynb) | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/TheSkinnyRat/anime_screenshot_pipeline_colab/blob/main/anime_screenshot_pipeline.ipynb) |
+
+---
+
+## Runpod.io
+
+Tested on Runpod.io pytorch docker image.
+- [runpod/pytorch:3.10-1.13.1-116](https://hub.docker.com/r/runpod/pytorch)
+- Python: 3.10.10
+- Pip: 23.0.1
+- Torch: 1.13.1+cu116
+- Torchvision: 0.14.1+cu116
+
+| Link |
+| --- |
+| [![](https://img.shields.io/static/v1?message=Open%20Notebook&logo=github&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/TheSkinnyRat/anime_screenshot_pipeline_colab/blob/main/anime_screenshot_pipeline_runpod.ipynb) |
