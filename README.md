@@ -83,8 +83,6 @@ Tested on Google Colab Free.
 | --- | --- |
 | [Anime Screenshot Pipeline](https://github.com/TheSkinnyRat/anime_screenshot_pipeline_colab/blob/main/anime_screenshot_pipeline.ipynb) | [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/TheSkinnyRat/anime_screenshot_pipeline_colab/blob/main/anime_screenshot_pipeline.ipynb) |
 
----
-
 ## Runpod.io
 
 Tested on Runpod.io pytorch docker image.
