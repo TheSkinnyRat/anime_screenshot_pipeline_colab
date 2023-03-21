@@ -94,4 +94,4 @@ Tested on Runpod.io pytorch docker image.
 
 | Link |
 | --- |
-| [![](https://img.shields.io/static/v1?message=Open%20Notebook&logo=github&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/TheSkinnyRat/anime_screenshot_pipeline_colab/blob/main/anime_screenshot_pipeline_runpod.ipynb) |
+| [![](https://img.shields.io/static/v1?message=Open%20Notebook&logo=github&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://github.com/TheSkinnyRat/anime_screenshot_pipeline_colab/blob/main/anime_screenshot_pipeline_runpod.ipynb) |
