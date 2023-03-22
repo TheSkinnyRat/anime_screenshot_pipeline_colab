@@ -90,8 +90,8 @@ Tested on Runpod.io [TSR Pytorch docker image].
 - [https://runpod.io/gsc?template=97cv87yo27&ref=8rg64ew2](https://runpod.io/gsc?template=97cv87yo27&ref=8rg64ew2)
 - Python: 3.10.10
 - Pip: 23.0.1
-- Torch: 1.13.1+cu116
-- Torchvision: 0.14.1+cu116
+- Torch: 1.13.1+cu117
+- Torchvision: 0.14.1+cu117
 
 | Link |
 | --- |
