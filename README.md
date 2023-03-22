@@ -85,8 +85,9 @@ Tested on Google Colab Free.
 
 ## Runpod.io
 
-Tested on Runpod.io pytorch docker image.
-- [runpod/pytorch:3.10-1.13.1-116](https://hub.docker.com/r/runpod/pytorch)
+Tested on Runpod.io [TSR Pytorch docker image].
+- [theskinnyrat/pytorch:3.10-1.13.1-117](https://hub.docker.com/r/theskinnyrat/pytorch)
+- [https://runpod.io/gsc?template=97cv87yo27&ref=8rg64ew2](https://runpod.io/gsc?template=97cv87yo27&ref=8rg64ew2)
 - Python: 3.10.10
 - Pip: 23.0.1
 - Torch: 1.13.1+cu116
