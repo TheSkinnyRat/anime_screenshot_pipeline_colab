@@ -1,5 +1,6 @@
 # Anime Screenshot Pipeline
-[![](https://img.shields.io/static/v1?message=Support+Me+On+Ko-Fi&logo=ko-fi&labelColor=555555&logoColor=FF8E8E&color=ff5f5f&label=%20&style=for-the-badge)](https://ko-fi.com/TheSkinnyRat)
+[![](https://img.shields.io/static/v1?message=Buy%20me%20a%20coffee&logo=buymeacoffee&labelColor=555555&logoColor=ffba00&color=FFDD00&label=%20&style=for-the-badge)](https://www.buymeacoffee.com/TheSkinnyRat)
+[![](https://img.shields.io/static/v1?message=Ko-Fi&logo=ko-fi&labelColor=555555&logoColor=FF8E8E&color=ff5f5f&label=%20&style=for-the-badge)](https://ko-fi.com/TheSkinnyRat)
 [![](https://img.shields.io/static/v1?message=Saweria&logo=ko-fi&labelColor=555555&logoColor=ffba00&color=857b7b&label=%20&style=for-the-badge)](https://saweria.co/TheSkinnyRat)
 
 Semi-automatic pipeline to extract image training set from anime for generative model training.\
@@ -85,12 +86,13 @@ Tested on Google Colab Free.
 
 ## Runpod.io
 
-Tested on Runpod.io pytorch docker image.
-- [runpod/pytorch:3.10-1.13.1-116](https://hub.docker.com/r/runpod/pytorch)
+Tested on Runpod.io [TSR Pytorch docker image].
+- [theskinnyrat/pytorch:3.10-1.13.1-117](https://hub.docker.com/r/theskinnyrat/pytorch)
+- [https://runpod.io/gsc?template=97cv87yo27&ref=8rg64ew2](https://runpod.io/gsc?template=97cv87yo27&ref=8rg64ew2)
 - Python: 3.10.10
 - Pip: 23.0.1
-- Torch: 1.13.1+cu116
-- Torchvision: 0.14.1+cu116
+- Torch: 1.13.1+cu117
+- Torchvision: 0.14.1+cu117
 
 | Link |
 | --- |
